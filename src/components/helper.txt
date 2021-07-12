@@ -1,0 +1,31 @@
+            {/* {
+                props.category == "species" ?
+                    <div>
+                        <h1>{data.name}</h1>
+                        <h4>Classification: {data.classification}</h4>
+                        <h4>Language: {data.language}</h4>
+                        <h4>Average Lifespan: {data.average_lifespan} years</h4>
+                    </div>:null
+            }
+            {
+                props.category == "starships" ?
+                    <div>
+                        <h1>{data.name}</h1>
+                        <h4>Model: {data.model}</h4>
+                        <h4>Manufacturer: {data.manufacturer}</h4>
+                        <h4>Hyperdrive rating: {data.hyperdrive_rating}</h4>
+                        <h4>Starship Class: {data.starship_class}</h4>
+                    </div>:null
+            }
+
+
+
+                        {
+                props.category == "films" ?
+                    <div>
+                        <h1>{data.title}</h1>
+                        <h4>Episode {data.episode_id}</h4>
+                        <h4>Director: {data.director}</h4>
+                        <h4>Release Date: {data.release_date}</h4>
+                    </div>:null
+            }
