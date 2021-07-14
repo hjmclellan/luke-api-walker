@@ -1,3 +1,5 @@
+Error message is bugged and doesn't clear upon new request
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
